@@ -10,4 +10,4 @@ I'm Daniel, a full-stack developer based in New York City. I work as a full-time
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielkwon89)](https://github.com/danielkwon89github-readme-stats)
 <br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkwon89)](https://github.com/danielkwon89/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkwon89&layout=compact)](https://github.com/danielkwon89/github-readme-stats)

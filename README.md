@@ -1,8 +1,3 @@
-![](assets/images/yellow-linkedin-header-2.png)
-
 ### Hi there 👋
 
-- 🔭 I’m currently working on: data structures/algorithm practice as well as personal projects!
-- 🌱 I’m currently learning: data structures/algorithms (binary and KNP searches)
-- 💬 Ask me about: my experience as a Flatiron School student!
-- 📫 How to reach me: shoot me an email: danielkwon89@gmail.com or DM me on Twitter: https://twitter.com/dwonkaniel
+I'm Daniel. I work as a full-time software engineer. In my spare time I'm learning DSA and working on passion projects. Most of my projects are focused on honing my current skills and to gain practical experience with new technologies. I also write articles about web-development and my experiences as an engineer.

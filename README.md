@@ -6,4 +6,3 @@
 - 🌱 I’m currently learning: data structures/algorithms (binary and KNP searches)
 - 💬 Ask me about: my experience as a Flatiron School student!
 - 📫 How to reach me: shoot me an email: danielkwon89@gmail.com or DM me on Twitter: https://twitter.com/dwonkaniel
-- ⚡ Fun fact: I once won first place at a singing contest 🎤

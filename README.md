@@ -4,3 +4,6 @@ I'm Daniel. I work as a full-time IT analyst and I'm currently looking for my fi
 
 ### Getting in touch
 <a href="https://www.linkedin.com/in/danielkwon89/"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a> <a href="https://twitter.com/dwonkaniel"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a> <a href="https://daniel-kwon.medium.com/"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" /></a>
+
+### Current Skills
+<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a> <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a> <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></a> <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a> <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>  

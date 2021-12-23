@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel, a full stack software engineer based in New York City. I currently work as a IT analyst and I'm looking transition into a full-time software engineering role. In my free time I'm learning data structures, algorithms and working on personal projects. Most of my projects are focused on honing my current skills and to gain practical experience with new technologies. I also write articles about web development and my experiences as an engineer <a href="https://daniel-kwon.medium.com/">here</a>.
+I'm Daniel, a full stack software engineer based in New York City. I currently work as a junior web developer for Interplay Learning. In my free time I'm learning data structures, algorithms and working on personal projects. Most of my projects are focused on honing my current skills and to gain practical experience with new technologies. I also write articles about web development and my experiences as an engineer <a href="https://daniel-kwon.medium.com/">here</a>.
 
 ### Getting in touch
 <a href="https://www.linkedin.com/in/danielkwon89/" target="_blank"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/dkwon_codes" target="_blank"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://daniel-kwon.medium.com/" target="_blank"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" /></a>
